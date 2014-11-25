@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+	<Button
+	    android:id="@+id/btnRest"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@+id/btnInst"
+	    android:layout_centerHorizontal="true"
+	    android:layout_marginTop="52dp"
+	    android:text="Restore to normal"
+	    android:textSize="25sp" />
+
+	<TextView
+	    android:layout_width="304dp"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@+id/btnRest"
+	    android:layout_centerHorizontal="true"
+	    android:layout_marginTop="46dp"
+	    android:text="beta ver.3. App by modbrin. Requires ROOT and busybox. Made for L Camera. Compatible ONLY with Nexus 5 (LRX21O). Author IS NOT responsible for any damage caused to your phone. "
+	    android:textSize="17sp" />
+
+	<TextView
+	    android:id="@+id/text"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentTop="true"
+	    android:layout_centerHorizontal="true"
+	    android:layout_marginTop="24dp"
+	    android:text="What do you want to do:"
+	    android:textSize="18sp"
+	    android:textStyle="bold" />
+
+	<Button
+	    android:id="@+id/btnInst"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_below="@+id/text"
+	    android:layout_centerHorizontal="true"
+	    android:layout_marginTop="51dp"
+	    android:text="Install 60 fps mod"
+	    android:textSize="25sp" />
+
+</RelativeLayout>
