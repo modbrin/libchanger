@@ -3,13 +3,11 @@
 
 ![picture](https://cloud.githubusercontent.com/assets/9750068/5184663/15a42aea-74db-11e4-8668-445c779edca8.jpg)
 
-ONLY WORKS WITH ROOT and BUSYBOX
+#ONLY WORKS WITH ROOT and BUSYBOX
 
 #INSTALLATION:
-#1) 
-Copy LC-Cache folder to your /sdcard
-#2) 
-Run LIBCHANGER_v0.3.apk
+1) Copy LC-Cache folder to your /sdcard
+2) Run LIBCHANGER_v0.3.apk
 
 #How this works:
 #1'
