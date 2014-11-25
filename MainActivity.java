@@ -13,6 +13,7 @@ import android.widget.TextView;
 
 
 public class MainActivity extends Activity {
+    
     TextView text;
 	Button btnInst;
 	Button btnRest;
