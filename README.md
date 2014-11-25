@@ -5,6 +5,7 @@
 
 #ONLY WORKS WITH ROOT and BUSYBOX
 
+You can download the latest release [Here](https://github.com/modbrin/libchanger/releases)
 #INSTALLATION:
 1) Copy LC-Cache folder to your /sdcard
 
