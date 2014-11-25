@@ -7,6 +7,8 @@
 
 #INSTALLATION:
 1) Copy LC-Cache folder to your /sdcard
+
+
 2) Run LIBCHANGER_v0.3.apk
 
 #How this works:
