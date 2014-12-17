@@ -21,4 +21,4 @@ Then you press "Restore to normal" app uses SU access, then it installs original
 #3'
 You can use any mod lib instead of libmmcamera_imx179_60hz.so or libmmcamera_imx179_120hz.so, just copy your mod into LC-Cache folder. 
 
-#Great thanks to Pkmx for L Camera
+#Great thanks to PkmX for L Camera
